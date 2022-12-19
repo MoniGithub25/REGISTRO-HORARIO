@@ -13,7 +13,8 @@ QR de ejemplo:
 
 Registro:
 
-![Excel](https://user-images.githubusercontent.com/111430658/208528995-1f8a19da-fc2e-4068-b11c-5146e666268f.png)
+![image](https://user-images.githubusercontent.com/111430658/208536128-2580c5fb-bfab-430d-9476-eb3eaeb8253c.png)
+
 
 Archivos creados por el programa:
 
