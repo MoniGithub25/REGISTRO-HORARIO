@@ -20,7 +20,7 @@ Archivos creados por el programa:
 
 ![image](https://user-images.githubusercontent.com/111430658/208524585-5df89cac-6e81-4596-8de2-0bf5715fdaa3.png)
 
-Carnet de ejemplo:
+Carnet de ejemplo (en la foto de carnet está mi querido Yamper, Fitz):
 
 ![Captura de pantalla 2022-12-19 223445](https://user-images.githubusercontent.com/111430658/208529087-6fcca2cf-12ca-4e1e-94f1-c063ff233cd2.png) ![Captura de pantalla 2022-12-19 223507](https://user-images.githubusercontent.com/111430658/208529089-272b88ca-f2ef-4fcc-ab7f-4cb240f8407c.png)
 
