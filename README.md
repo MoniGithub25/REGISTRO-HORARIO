@@ -16,7 +16,7 @@ Registro:
 ![image](https://user-images.githubusercontent.com/111430658/208536128-2580c5fb-bfab-430d-9476-eb3eaeb8253c.png)
 
 
-Archivos creados por el programa:
+Archivos creados por los programa:
 
 ![image](https://user-images.githubusercontent.com/111430658/208524585-5df89cac-6e81-4596-8de2-0bf5715fdaa3.png)
 
